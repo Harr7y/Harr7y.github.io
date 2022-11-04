@@ -1,15 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "Multimodal Transformer for Automatic 3D Annotation and Object Detection"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2022-10-01
+venue: 'ECCV'
+paperurl: 'https://arxiv.org/pdf/2207.09805.pdf'
+citation: 'Liu, C., Qian, X., Huang, B., Qi, X., Lam, E., Tan, S. C., & Wong, N. (2022). Multimodal Transformer for Automatic 3D Annotation and Object Detection. In European Conference on Computer Vision (pp. 657-673). Springer, Cham.&quot; <i>ECCV 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
