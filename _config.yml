@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Binxiao Huang"
   avatar           : "profile.jpg"
-  bio              : "E-mail: huangbx7@connect.hku.hk"
+  bio              : "E-mail: bxhuang@eee.hku.hk"
   location         : 
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ylJFUd0AAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://harr7y.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :
