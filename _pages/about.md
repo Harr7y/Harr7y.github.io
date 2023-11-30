@@ -15,4 +15,4 @@ My current research interests include adversarial robustness, backdoor attack, g
 
 Welcome to contact me if you are interested in either of these topics!
 
-<font color=red>I am eagerly looking for an internship that can last from 6 months to 18 months, email me if you are interested! </font>
+<font color=red>I am eagerly looking for an internship (6 to 18 months) about AI security，3D Point Cloud or generative model, email me if you are interested! </font>
