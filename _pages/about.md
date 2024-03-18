@@ -15,4 +15,4 @@ My current research interests include adversarial robustness, backdoor attack, g
 
 Welcome to contact me if you are interested in either of these topics!
 
-<font color=red>I am eagerly looking for an internship (6 to 18 months) about AI security，3D Point Cloud or generative model, email me if you are interested! </font>
+<font color=red>I am eagerly looking for an internship (6 to 18 months) about AI security，3D/2D diffusion generation, 3D Point Cloud and Gaussian splatting, email me if you are interested! </font>
