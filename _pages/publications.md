@@ -3,11 +3,16 @@ permalink: /publications/
 title: "Publications"
 ---
 
-## Journal
-+ Lin, R. *, Li, C. *, Zhou, J., **Huang, B.**, Ran, J., Wong, N. (2023). Lite it fly: An All-Deformable-Butterfly Network. Brief Paper in the IEEE Transactions on Neural Networks and Learning Systems (TNNLS). [[PDF & Codes Coming Soon](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)]
-
-
 ## Conference
-+ **Huang, B.**, Tao, C., LIN, R., Wong, N. (2023). Frequency Regularization for Improving Adversarial Robustness. In proceedings of the 2nd International Workshop on Practical Deep Learning in the Wild at the AAAI Conference on Artificial Intelligence (Workshop at AAAI'23) [[PDF](\files\pdf\AAAI2023_Workshop.pdf)][[Code](https://github.com/Harr7y/FR)]
++ **Huang, B.** *, Li, C. *, Ran, J., Li, B., Zhou, J., Yu D., Wong, N. Hundred-Kilobyte Lookup Tables for Efficient Single-Image Super-Resolution. **IJCAI-2024** [[PDF & Codes Coming Soon]]
 
-+ Liu, C., Qian, X., **Huang, B.**, Qi, X., Lam, E., Tan, S. C., & Wong, N. (2022). Multimodal Transformer for Automatic 3D Annotation and Object Detection. In European Conference on Computer Vision (pp. 657-673). Springer, Cham.[[PDF](https://arxiv.org/pdf/2207.09805.pdf)][[Code](https://github.com/Cliu2/MTrans)]
++ **Huang, B.**, Tao, C., LIN, R., Wong, N. Frequency Regularization for Improving Adversarial Robustness. **AAAI-2023 Workshop** [[PDF](\files\pdf\AAAI2023_Workshop.pdf)][[Code](https://github.com/Harr7y/FR)]
+
++ Li, C. *, Liu, C. *, **Huang, B.**, Wong, N. Learning Spatially Collaged Fourier Bases for Implicit Neural Representation. **AAAI-2023 Workshop** [[PDF & Codes Coming Soon]]
+
++ Liu, C., Qian, X., **Huang, B.**, Qi, X., Lam, E., Tan, S. C., & Wong, N. Multimodal Transformer for Automatic 3D Annotation and Object Detection. **ECCV-2022**.[[PDF](https://arxiv.org/pdf/2207.09805.pdf)][[Code](https://github.com/Cliu2/MTrans)]
+
+
+
+## Journal
++ Lin, R. *, Li, C. *, Zhou, J., **Huang, B.**, Ran, J., Wong, N. (2023). Lite it fly: An All-Deformable-Butterfly Network. **TNNLS-2023**. [[PDF & Codes Coming Soon](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)]
