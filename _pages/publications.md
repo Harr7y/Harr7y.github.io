@@ -8,7 +8,7 @@ title: "Publications"
 
 + **Huang, B.**, Tao, C., LIN, R., Wong, N. Frequency Regularization for Improving Adversarial Robustness. **AAAI-2023 Workshop** [[PDF](\files\pdf\AAAI2023_Workshop.pdf)][[Code](https://github.com/Harr7y/FR)]
 
-+ Li, C. *, Liu, C. *, **Huang, B.**, Wong, N. Learning Spatially Collaged Fourier Bases for Implicit Neural Representation. **AAAI-2024** [[PDF & Codes Coming Soon]]
++ Li, C. *, Liu, C. *, **Huang, B.**, Wong, N. Learning Spatially Collaged Fourier Bases for Implicit Neural Representation. **AAAI-2024** [[PDF](\files\pdf\AAAI24_SCONE_third.pdf)] [Codes Coming Soon]
 
 + Liu, C., Qian, X., **Huang, B.**, Qi, X., Lam, E., Tan, S. C., & Wong, N. Multimodal Transformer for Automatic 3D Annotation and Object Detection. **ECCV-2022**.[[PDF](https://arxiv.org/pdf/2207.09805.pdf)][[Code](https://github.com/Cliu2/MTrans)]
 
