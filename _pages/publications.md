@@ -4,7 +4,10 @@ title: "Publications"
 ---
 
 ## Conference
-+ **Huang, B.** *, Li, C. *, Ran, J., Li, B., Zhou, J., Yu D., Wong, N. Hundred-Kilobyte Lookup Tables for Efficient Single-Image Super-Resolution. **IJCAI-2024** [[PDF & Codes Coming Soon]]
++ Yang, S *, **Huang, B.** *, Cao, M., Ji, Y., Guo, H., Ngai Wong, Yang, Y. Taming Lookup Tables for Efficient Image Retouching. **ECCV-2024**. [[PDF](https://arxiv.org/abs/2403.19238)][[Codes Coming Soon]]
+
++ **Huang, B.** *, Li, C. *, Ran, J., Li, B., Zhou, J., Yu D., Wong, N. Hundred-Kilobyte Lookup Tables for Efficient Single-Image Super-Resolution. **IJCAI-2024** [[PDF](https://arxiv.org/abs/2312.06101)][[Code](https://github.com/jasonli0707/hklut)]
+
 
 + **Huang, B.**, Tao, C., LIN, R., Wong, N. Frequency Regularization for Improving Adversarial Robustness. **AAAI-2023 Workshop** [[PDF](\files\pdf\AAAI2023_Workshop.pdf)][[Code](https://github.com/Harr7y/FR)]
 
